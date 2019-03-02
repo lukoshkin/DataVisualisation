@@ -1,7 +1,7 @@
 # Craft of Data Visualisation with Python
 
-Some examples of data visualisation made with powerful Python libraries are presented here and further may serve as 
-guidance for newcomers or a reminder of basic set of tools which become handy while preparing to a demonstration of your results.
+Some examples of data visualisation made with powerful Python libraries are presented here, and further may serve as 
+guidance for newcomers or as a reminder of the basic set of tools which comes in handy while preparing to a demonstration of your results.
 
 Most of the topics presented below are covered by the exercises you can find in this repository.
 
